@@ -32,9 +32,5 @@ class HistoryViewModel @Inject constructor(
         }
     }
 
-//    fun deleteUser(user: User) {
-//        viewModelScope.launch {
-//            userRepository.deleteUser(user)
-//        }
-//    }
+
 }
